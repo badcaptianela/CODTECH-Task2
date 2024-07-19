@@ -1,4 +1,22 @@
+- **Name:** ELAVARASAN D
+- **Company:** CODTECH IT SOLUTIONS
+- **ID:** CT08DS2944
+- **Domain:** ETHICAL HACKING
+- **Duration:** JUNE 25th, 2024 to JULY 25th, 2024
+- **Mentor:**
 
+
+
+
+
+
+
+
+
+
+# Overview of the Project
+
+## Project Name: VULNERABILITY SCANNING TOOL
 
 ## Objective
 The Advanced Vulnerability Scanner is a Python tool designed to identify and report vulnerabilities in network services and websites. It helps users enhance their security posture by providing detailed insights into open ports, running services, outdated software, and website security headers.
